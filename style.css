@@ -1,0 +1,67 @@
+body{
+    background-color: #7e8c9e;
+}
+#path{
+    width: 450px;
+    height: 450px;
+    margin: 20px auto;
+    background-color:#1d2e21;
+
+}
+#short{
+    width: 100px;
+    height: 100px;
+    margin:20px auto;
+    position: relative;
+}
+.number{
+    width: 50px;
+    height: 50px;
+    margin: 1px;
+    float: inherit;
+    border-radius:5%;
+    border-width: 1px;
+    font-weight: bold;
+    font-size: 5px;
+    background-color: black;
+}
+#number00{
+    background: green;
+}
+#number77{
+    background: red;
+}
+#bfs{
+    align-content: center;
+}
+#reset{
+
+    height: 30px;
+    width: 90px;
+    font-size: 15px;
+    font-family: "Leelawadee UI";
+    border-radius:5px;
+    color: #3119e2;
+    background-color: #167f6f;
+}
+.menu{
+    background-color: rgba(5, 9, 25, 0.95);
+    width: 500px;
+    height: 1000px;
+}
+#block{
+    position: relative;
+    font-size: 15px;
+    font-family: "Leelawadee UI";
+    border-radius:5px;
+    color: rgba(255, 167, 183, 0.7);
+    background-color: #e50e26;
+}
+#bfs{
+    position: relative;
+    font-size: 15px;
+    font-family: "Leelawadee UI";
+    border-radius:5px;
+    color: #a072e2;
+    background-color: #11205c;
+}
